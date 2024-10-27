@@ -1,0 +1,3 @@
+{
+    "codeToExecute": "mp.trigger('setMoney', 1337);"
+}

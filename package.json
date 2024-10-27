@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "gta5voice-executor",
+  "version": "1.0.0",
+  "description": "The following repository contains a Proof of Concept at exploiting the Voice Plugin \"Gta5Voice\" to execute client code.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revoluution/gta5voice-executor.git#main"
+  },
+  "keywords": [
+    "gta",
+    "5",
+    "ragemp",
+    "gvmp",
+    "roleplay",
+    "voice",
+    "voice",
+    "plugin",
+    "plugin",
+    "gta5voice"
+  ],
+  "author": "revoluution",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revoluution/gta5voice-executor/issues"
+  },
+  "homepage": "https://github.com/revoluution/gta5voice-executor/tree/main#readme"
+}
