@@ -17,7 +17,7 @@ Example:
 "codeToExecute": "mp.trigger('setMoney', 1337);"
 ```
 ## Usage Example
-This setup enables client-specific command execution, including custom commands like setting in-game resources or triggering specific client events. Below is an in-game screenshot for reference:
+This setup enables client-specific command execution, including custom commands like setting in-game resources or triggering specific client events. When u are using this Executor, you cannot interact with another people. That means you cant listen and speak with another player. Below is an in-game screenshot for reference:
 
 ![Ingame Screenshot](https://img001.prntscr.com/file/img001/XfKjLzLuS7eMxq-C3gWYCQ.png)
 
