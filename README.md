@@ -24,6 +24,6 @@ This setup enables client-specific command execution, including custom commands 
 ## Note
 Eigentlich war es garnicht mein Ziel das ganze zu veröffentlichen, da aber nach mehrfachen Ignorieren das einfach "fallen" gelassen wurde, habe ich irgendwann die Source veröffentlicht für nicht gerade GVMP sondern andere Server Besitzer. 
 Skeezy der 31er hat es gemeldet und hat daraufhin den positiven Akteneintrag bekommen, wobei ich garnichts bekommen habe in Bezug auf Akte.
-Damit mir das geglaubt wird, ist hier der Akteneintrag aus dem ACP
-![ACP]
-(https://i.ibb.co/TDCXmnGP/IMG-0153.jpg)
+Damit mir das geglaubt wird, ist hier der Akteneintrag aus dem ACP.
+
+![ACP](https://i.ibb.co/TDCXmnGP/IMG-0153.jpg)
